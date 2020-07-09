@@ -1,91 +1,96 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jared L Wong
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jared L Wong
+Software Engineer currently working on Trust and Safety; removing spam and unsafe content from Pinterest.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="jaredlwong@gmail.com">jaredlwong@gmail.com</a>
 </div>
 
 
-## Currently
+## Experience
 
-Standing on the shoulders of giants
+`Jul 2015 - now`
+__Software Engineer, Pinterest__, San Francisco, CA
 
-### Specialized in
+*trust & safety platform*, infrastructure for fighting content safety and spam
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- Tech Lead of team from 2019-
+- harmful, unsafe, illegal, and otherwise policy-violating content
+- abusive, adversarial, and fraudulent user behavior
+
+`2016-2018`
+*video and image platform*
+
+- built out generic infrastructure to support image and video products with compliance
+- supported 4 other engineers to build this out over 1.5 years
+- migrated all key products: pins, profile pictures, buyable pins, tried its, pin videos, and tried it videos (beta), and a half dozen new internal use cases
+- worked with 3rd party private marketplaces (PMPs) to support video ad uploading through APIs
+
+`2016-2018`
+*jupyter*, side project
+
+- worked with Zack Drach as a side project to build out infra for jupyter
+- built out an internal tool to run jupyter notebooks and persist execution
+- trained and supporting over 200+ developers and analysts, and company wide consumption
+
+`2016`
+*core services*
+
+- built out microservices to access core product data (pins, boards, users, etc)
+
+`2015-2016`
+*web crawler*
+
+- ran the web crawler to crawl billions of pages and extract features for search and relevance systems
+- extracted metadata from pages using schema markup parsing
+- worked with outside organizations (CDNs/cloud providers/ISPs) to run a good citizen crawler
 
 
-### Research interests
+`May 2014 – Aug 2014`
+__Software Engineering Intern, Pinterest__, San Francisco, CA
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Worked on infra team on a variety of projects related to storage and caching
+
+
+`May 2013 – Aug 2013`
+__Software Engineering Intern, Pinterest__, San Francisco, CA
+
+- Started work to introduce distributed tracing
+
+
+`Jan 2012 – Aug 2012`
+__Researcher, Senseable City Lab__, NUS, Singapore
+
+- Analyzed relationships between taxi movements and rainfall data in Singapore
+- Used a mix of Java, Matlab, R, and Redis to analyze data
+- Built the Live Singapore! website
+
+
+`Jun 2010 - Dec 2010`
+__Researcher, Stanford University School of Medicine__, Bhalla Nephrology Lab
+
+- Investigated hypertension as a risk factor for non-insulin dependent diabetes
+- Worked with and cared for mice; carried out simple gels and blots
+- Through statistical analysis found vital incongruencies between tail cuff and implanted blood pressure monitors
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2011-2015`
+__Massachusetts Institute of Technology__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- SB, 6-3 Computer Science
+- Informal focus on systems engineering, took many grad level systems classes.
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+`2007-2011`
+__Lynbrook High School__
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2020 -->
 
 
