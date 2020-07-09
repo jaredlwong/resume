@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Jared L Wong
+title: jaredlwong-2020
 ---
 # Jared L Wong
 
