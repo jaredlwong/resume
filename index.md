@@ -15,7 +15,7 @@ Software Engineer currently working on Trust and Safety; removing spam and unsaf
 `Jul 2015 - now`
 __Software Engineer, Pinterest__, San Francisco, CA
 
-*trust & safety platform*, infrastructure for fighting content safety and spam
+*trust & safety platform, infrastructure for fighting content safety and spam*
 
 - Tech Lead of team from 2019-
 - harmful, unsafe, illegal, and otherwise policy-violating content
@@ -30,7 +30,7 @@ __Software Engineer, Pinterest__, San Francisco, CA
 - worked with 3rd party private marketplaces (PMPs) to support video ad uploading through APIs
 
 `2016-2018`
-*jupyter*, side project
+*jupyter, side project*
 
 - worked with Zack Drach as a side project to build out infra for jupyter
 - built out an internal tool to run jupyter notebooks and persist execution
