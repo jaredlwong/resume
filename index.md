@@ -3,9 +3,9 @@ layout: cv
 title: Jared L Wong
 ---
 # Jared L Wong
-Software Engineer currently working on Trust and Safety; removing spam and unsafe content from Pinterest.
 
 <div id="webaddress">
+  <a href="https://jaredlwong.com">jaredlwong.com</a>
   <a href="jaredlwong@gmail.com">jaredlwong@gmail.com</a>
 </div>
 
@@ -21,7 +21,7 @@ __Software Engineer, Pinterest__, San Francisco, CA
 - harmful, unsafe, illegal, and otherwise policy-violating content
 - abusive, adversarial, and fraudulent user behavior
 
-`2016-2018`
+`2016 - 2018`
 *video and image platform*
 
 - built out generic infrastructure to support image and video products with compliance
@@ -29,7 +29,7 @@ __Software Engineer, Pinterest__, San Francisco, CA
 - migrated all key products: pins, profile pictures, buyable pins, tried its, pin videos, and tried it videos (beta), and a half dozen new internal use cases
 - worked with 3rd party private marketplaces (PMPs) to support video ad uploading through APIs
 
-`2016-2018`
+`2016 - 2018`
 *jupyter, side project*
 
 - worked with Zack Drach as a side project to build out infra for jupyter
@@ -41,7 +41,7 @@ __Software Engineer, Pinterest__, San Francisco, CA
 
 - built out microservices to access core product data (pins, boards, users, etc)
 
-`2015-2016`
+`2015 - 2016`
 *web crawler*
 
 - ran the web crawler to crawl billions of pages and extract features for search and relevance systems
