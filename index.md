@@ -5,10 +5,10 @@ title: Jared L Wong
 # Jared L Wong
 
 <div id="webaddress">
-  <a href="https://jaredlwong.com"><i class="fas fa-home"></i> jaredlwong.com</a> - 
-  <a href="https://pinterest.com/jaredlwong"><i class="fab fa-pinterest"></i> jaredlwong</a> - 
-  <a href="https://github.com/jaredlwong"><i class="fab fa-github"></i> jaredlwong</a> - 
-  <a href="https://calendly.com/jaredlwong/meeting"><i class="far fa-calendar-check"></i> calendly/jaredlwong</a>
+  <a href="https://jaredlwong.com" target="_blank"><i class="fas fa-home"></i> jaredlwong.com</a> - 
+  <a href="https://pinterest.com/jaredlwong" target="_blank"><i class="fab fa-pinterest"></i> jaredlwong</a> - 
+  <a href="https://github.com/jaredlwong" target="_blank"><i class="fab fa-github"></i> jaredlwong</a> - 
+  <a href="https://calendly.com/jaredlwong/meeting" target="_blank"><i class="far fa-calendar-check"></i> calendly/jaredlwong</a>
 </div>
 
 
