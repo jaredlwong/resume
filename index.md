@@ -82,13 +82,13 @@ __Researcher, Stanford University School of Medicine__, Bhalla Nephrology Lab
 ## Education
 
 `2011-2015`
-__Massachusetts Institute of Technology__
+__Massachusetts Institute of Technology__, Cambridge, MA
 
 - SB, 6-3 Computer Science
 - Informal focus on systems engineering, took many grad level systems classes.
 
 `2007-2011`
-__Lynbrook High School__
+__Lynbrook High School__, San Jose, CA
 
 
 <!-- ### Footer
