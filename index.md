@@ -6,9 +6,7 @@ title: jaredlwong-2020
 
 <div id="webaddress">
   <a href="https://jaredlwong.com" target="_blank"><i class="fas fa-home"></i> jaredlwong.com</a> - 
-  <a href="https://pinterest.com/jaredlwong" target="_blank"><i class="fab fa-pinterest"></i> jaredlwong</a> - 
-  <a href="https://github.com/jaredlwong" target="_blank"><i class="fab fa-github"></i> jaredlwong</a> - 
-  <a href="https://calendly.com/jaredlwong/meeting" target="_blank"><i class="far fa-calendar-check"></i> calendly/jaredlwong</a>
+  <a href="https://pinterest.com/jaredlwong" target="_blank"><i class="fab fa-pinterest"></i> pinterest.com/jaredlwong</a>
 </div>
 
 
@@ -22,6 +20,7 @@ __Software Engineer, Pinterest__, San Francisco, CA
 - Tech Lead of team from 2019-
 - harmful, unsafe, illegal, and otherwise policy-violating content
 - abusive, adversarial, and fraudulent user behavior
+- working on techniques that reduced spam on pinterest by 50%
 
 `2016 - 2018`
 *video and image platform*
